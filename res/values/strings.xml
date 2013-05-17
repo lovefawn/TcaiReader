@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TcaiReader</string>
+    <string name="ContentDescriptionBookmarkThumbnail">书签缩略图</string>
+    <string name="ani_time">350</string>
+ <string name="ani_time2">700</string>
+ <string name="Add">添加</string>
+ <string name="Cancel">取消</string>
+</resources>
